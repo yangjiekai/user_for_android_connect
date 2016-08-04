@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText00" type="id">IP輸入框(輸入IP的地方)</item>
+</resources>

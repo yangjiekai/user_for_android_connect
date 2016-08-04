@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">user_for server</string>
+    <string name="s001">連線(按鈕)</string>
+    <string name="s002">司服器IP)說明列</string>
+    <string name="s003">司服器埠)說明列</string>
+    <string name="s004">使用者姓名</string>
+    <string name="s005">送出訊息</string>
+    <string name="s006">輸入訊息</string>
+    <string name="s007">重新啟動APP</string>
+    <string name="s008">登陸DB</string>
+    <string name="s009">備份db</string>
+    <string name="s010">還原從DB</string>
+</resources>
